@@ -1,0 +1,6 @@
+{
+  "name": "Braking Distance Predictor",
+  "description": "Predict and visualize vehicle braking distances based on speed, road conditions (dry, wet, snow, ice), weather, tire condition, load, and slope with real-time graphs and safety simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
